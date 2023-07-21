@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2023-07-21T15:50:29.026Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="aX1R9E1FSXEzIEizCcCJ" type="github">
+  <diagram name="Page-1" id="vb6JRBaYY-R8XHIQ78GD">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Start" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="484" width="50" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Farmer Sign In/Register" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="417" y="84" width="185" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Add Products" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="186" y="167" width="109" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Set Product Price" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="29" y="251" width="138" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Set Product Quantity" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="16" y="334" width="164" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Save Product Information" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="418" width="196" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Edit Product Details" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="305" y="251" width="157" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Modify Product Description, Images, etc." style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="334" width="307" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Save Updated Product Information" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="253" y="418" width="261" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="View Orders" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="458" y="167" width="102" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="Withdraw Products" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="610" y="167" width="150" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="Select Product to Withdraw from Sale" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="543" y="251" width="285" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.499921875;exitY=0.9852941176470589;entryX=0.49727618243243243;entryY=-0.014705882352941176;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.0014780405405405406;exitY=0.900554183761713;entryX=0.5036553899082569;entryY=0;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="241" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.0037270642201834864;exitY=0.9609681188274856;entryX=0.5001415307971014;entryY=-0.014705882352941176;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="98" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5001415307971014;exitY=0.9705882352941176;entryX=0.5001190929878049;entryY=0;" edge="1" parent="1" source="5" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5001190929878049;exitY=0.9852941176470589;entryX=0.5000996492346939;entryY=-0.014705882352941176;" edge="1" parent="1" source="6" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0035837155963303;exitY=0.9609681188274856;entryX=0.501766520700637;entryY=-0.014705882352941176;" edge="1" parent="1" source="4" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="226" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.501766520700637;exitY=0.9705882352941176;entryX=0.5009033998371335;entryY=0;" edge="1" parent="1" source="8" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5009033998371335;exitY=0.9852941176470589;entryX=0.5010626197318008;entryY=-0.014705882352941176;" edge="1" parent="1" source="9" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49727618243243243;exitY=0.9705882352941176;entryX=0.49996170343137253;entryY=0;" edge="1" parent="1" source="3" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.8791847892053732;exitY=0.9705882352941176;entryX=0.5006770833333334;entryY=0;" edge="1" parent="1" source="3" target="12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5006770833333334;exitY=0.9852941176470589;entryX=0.49860197368421055;entryY=-0.014705882352941176;" edge="1" parent="1" source="12" target="13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
